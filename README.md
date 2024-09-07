@@ -12,7 +12,7 @@
 
 ## Screenshots
 <span>
-<img src="https://github.com/Sajid064/WindWhisper/blob/main/Screenshots/1.JPG" width = "273" height = "470"/>
-<img src="https://github.com/Sajid064/WindWhisper/blob/main/Screenshots/2.JPG" width = "273" height = "470"/>
-<img src="https://github.com/Sajid064/WindWhisper/blob/main/Screenshots/3.JPG" width = "273" height = "470"/>
+<img src="https://github.com/Sajid064/WindWhisper/blob/main/Screenshots/1.JPG" width = "273" height = "480"/>
+<img src="https://github.com/Sajid064/WindWhisper/blob/main/Screenshots/2.JPG" width = "273" height = "480"/>
+<img src="https://github.com/Sajid064/WindWhisper/blob/main/Screenshots/3.JPG" width = "273" height = "480"/>
 </span>
